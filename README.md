@@ -16,8 +16,9 @@ This will spin up all services (Airflow webserver, scheduler, PostgreSQL) via Do
 
 3. Access the Airflow UI
 Open your browser and go to:
+```bash
 http://localhost:8080
-
+```
 Default credentials: username: admin | password: admin
 
 
