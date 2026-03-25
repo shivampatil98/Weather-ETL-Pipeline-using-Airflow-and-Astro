@@ -20,9 +20,3 @@ Open your browser and go to:
 http://localhost:8080
 ```
 Default credentials: username: admin | password: admin
-
-
-
-```bash
-https://github.com/shivampatil98/End-to-End-Recommendation-system.git
-```
