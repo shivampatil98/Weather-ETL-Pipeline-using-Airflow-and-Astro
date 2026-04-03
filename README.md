@@ -1,4 +1,6 @@
-# 🚀 Getting Started
+This project demonstrates a fully automated Weather Data ETL Pipeline built using Apache Airflow and Astro CLI, designed to seamlessly extract, transform, and load weather data into a PostgreSQL database. The pipeline is engineered to handle real-time weather data updates, providing a reliable and scalable solution for weather analytics.
+
+## 🚀 Getting Started
 1. Clone the Repository
 
 ```bash
