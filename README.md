@@ -1,6 +1,6 @@
 This project demonstrates a fully automated Weather Data ETL Pipeline built using Apache Airflow and Astro CLI, designed to seamlessly extract, transform, and load weather data into a PostgreSQL database. The pipeline is engineered to handle real-time weather data updates, providing a reliable and scalable solution for weather analytics.
 
-🌍 City Considered
+### 🌍 City Considered
 
 The Weather Data ETL Pipeline specifically targets New York City, but it can be easily adapted for use in other cities or regions by modifying the API endpoint, geographical parameters, and data transformations.
 
@@ -15,6 +15,14 @@ Weather Data Features Collected:
 - Wind Direction
 - Weather Condition (Clear, Rain, Snow, etc.)
 - Timestamp
+
+### 🛠️ Tech Stack
+- Apache Airflow – Workflow orchestration
+- Astro CLI – Airflow management with Docker
+- PostgreSQL – Database for storing processed weather data
+- Docker – Containerized environment for easy local development and deployment
+- Python – Core language for writing Airflow tasks and transformations
+- Weather APIs – Data source for weather information (e.g., OpenWeatherMap)
 
 ## 🚀 Getting Started
 1. Clone the Repository
