@@ -1,5 +1,21 @@
 This project demonstrates a fully automated Weather Data ETL Pipeline built using Apache Airflow and Astro CLI, designed to seamlessly extract, transform, and load weather data into a PostgreSQL database. The pipeline is engineered to handle real-time weather data updates, providing a reliable and scalable solution for weather analytics.
 
+🌍 City Considered
+
+The Weather Data ETL Pipeline specifically targets New York City, but it can be easily adapted for use in other cities or regions by modifying the API endpoint, geographical parameters, and data transformations.
+
+- City: New York City
+- Region: United States
+- Data Source: The weather data is fetched from OpenWeatherMap API, providing real-time weather data like temperature, wind speed, and other critical metrics.
+
+Weather Data Features Collected:
+
+- Temperature (Celsius/Fahrenheit)
+- Windspeed
+- Wind Direction
+- Weather Condition (Clear, Rain, Snow, etc.)
+- Timestamp
+
 ## 🚀 Getting Started
 1. Clone the Repository
 
